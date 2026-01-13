@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Data artifacts
+data/
+*.parquet
+*.joblib
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Selenium / Webdriver
+.chromedriver/
