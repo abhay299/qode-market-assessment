@@ -185,15 +185,15 @@ Designed to be **memory‑safe and numerically robust**.
 
 ---
 
-## Scalability Notes
+## Sample Outputs
 
-The system is designed to scale to 10× data volume using:
-- Streaming ingestion
-- Columnar storage
-- Sampling‑based visualization
-- Clear separation of concerns
+To keep the repository lightweight, full datasets are not committed.
+Instead, the `sample_outputs/` directory contains:
 
----
+- `sample_tweets.json` — example scraped tweets (schema demonstration)
+- `sample_analysis.txt` — example market-level signal output
+
+These files illustrate the expected outputs of the pipeline without including large or regenerated artifacts.
 
 ## Conclusion
 

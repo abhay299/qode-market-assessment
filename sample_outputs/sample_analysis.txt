@@ -1,0 +1,11 @@
+Market-Level Signal Summary
+---------------------------
+Number of tweets analyzed: 41
+
+Mean signal strength: 1.0000
+95% confidence interval: (1.0000, 1.0000)
+
+Interpretation:
+- High similarity across tweets
+- Low variance indicates homogeneous market discussion
+- Signal confidence is high due to low dispersion
